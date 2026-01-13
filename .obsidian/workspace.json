@@ -24,27 +24,24 @@
             "id": "7f6b222847ed6bc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "새 탭"
             }
           },
           {
             "id": "cb60044f0aecb2ba",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "무제 5.base",
-                "viewName": "표"
+                "aFile": "2026-01-13.md",
+                "bFile": "2026-01-13.md",
+                "aRef": ""
               },
-              "icon": "lucide-table",
-              "title": "무제 5"
+              "icon": "diff",
+              "title": "Diff: 2026-01-13  (Working Tree)"
             }
           }
         ],
@@ -224,11 +221,12 @@
   },
   "active": "cb60044f0aecb2ba",
   "lastOpenFiles": [
-    "무제.canvas",
     "2026-01-13.md",
+    "무제 1.canvas",
+    "무제 5.base",
+    "무제.canvas",
     "무제 8.base",
     "무제 6.base",
-    "무제 5.base",
     "무제 1.base",
     "무제 7.base",
     "무제 4.base",
@@ -238,7 +236,6 @@
     "무제 2.canvas",
     "Untitled.canvas",
     "2026-01-12.md",
-    "무제 1.canvas",
     "무제.md",
     "Untitled.base",
     "Welcome.md",
