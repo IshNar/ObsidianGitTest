@@ -34,14 +34,17 @@
             "id": "cb60044f0aecb2ba",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "2026-01-13.md",
-                "bFile": "2026-01-13.md",
-                "aRef": ""
+                "file": "무제 3.canvas",
+                "viewState": {
+                  "x": 37.31771223006436,
+                  "y": -22.697152096888104,
+                  "zoom": -1.1102230246251565e-16
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2026-01-13  (Working Tree)"
+              "icon": "lucide-layout-dashboard",
+              "title": "무제 3"
             }
           }
         ],
@@ -222,6 +225,8 @@
   "active": "cb60044f0aecb2ba",
   "lastOpenFiles": [
     "2026-01-13.md",
+    "무제 3.canvas",
+    "무제 2.canvas",
     "무제 1.canvas",
     "무제 5.base",
     "무제.canvas",
@@ -233,7 +238,6 @@
     "무제 3.base",
     "무제 2.base",
     "무제.base",
-    "무제 2.canvas",
     "Untitled.canvas",
     "2026-01-12.md",
     "무제.md",
