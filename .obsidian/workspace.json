@@ -11,40 +11,13 @@
             "id": "b0667194db1d86a3",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "7f6b222847ed6bc1",
-            "type": "leaf",
-            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "새 탭"
             }
-          },
-          {
-            "id": "cb60044f0aecb2ba",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "무제.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "무제"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb60044f0aecb2ba",
+  "active": "b0667194db1d86a3",
   "lastOpenFiles": [
-    "2026-01-15.md",
     "무제.base",
-    "무제 7.canvas",
     "무제 6.canvas",
+    "무제 7.canvas",
+    "2026-01-15.md",
     "무제 5.canvas",
     "무제 4.canvas",
     "무제 9.base",
