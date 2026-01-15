@@ -34,10 +34,13 @@
             "id": "cb60044f0aecb2ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "bases",
+              "state": {
+                "file": "무제.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "무제"
             }
           }
         ],
@@ -217,8 +220,11 @@
   },
   "active": "cb60044f0aecb2ba",
   "lastOpenFiles": [
-    "무제 5.canvas",
     "2026-01-15.md",
+    "무제.base",
+    "무제 7.canvas",
+    "무제 6.canvas",
+    "무제 5.canvas",
     "무제 4.canvas",
     "무제 9.base",
     "무제 3.canvas",
@@ -234,7 +240,6 @@
     "무제 4.base",
     "무제 3.base",
     "무제 2.base",
-    "무제.base",
     "Untitled.canvas",
     "2026-01-12.md",
     "무제.md",
