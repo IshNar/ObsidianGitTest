@@ -11,11 +11,60 @@
             "id": "b0667194db1d86a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GitHub PAT 발급 방법.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
-            }
+              "title": "GitHub PAT 발급 방법"
+            },
+            "group": "9b306b54408f8ac4"
+          }
+        ]
+      },
+      {
+        "id": "0e95010ff13ae18d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8604a8a8c332f264",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "GitHub PAT 발급 방법.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "GitHub PAT 발급 방법 그래프"
+            },
+            "group": "9b306b54408f8ac4"
           }
         ]
       }
@@ -49,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,29 +242,31 @@
   },
   "active": "b0667194db1d86a3",
   "lastOpenFiles": [
-    "무제.base",
-    "무제 6.canvas",
-    "무제 7.canvas",
-    "2026-01-15.md",
-    "무제 5.canvas",
-    "무제 4.canvas",
-    "무제 9.base",
-    "무제 3.canvas",
-    "2026-01-13.md",
-    "무제 2.canvas",
-    "무제 1.canvas",
-    "무제 5.base",
-    "무제.canvas",
-    "무제 8.base",
-    "무제 6.base",
-    "무제 1.base",
     "무제 7.base",
+    "무제 6.base",
+    "무제 5.base",
+    "2026-01-20.md",
+    "무제 7.canvas",
+    "GitHub PAT 발급 방법.md",
+    "무제 6.canvas",
     "무제 4.base",
     "무제 3.base",
+    "무제.canvas",
     "무제 2.base",
+    "무제 1.base",
+    "무제.md",
+    "무제 5.canvas",
+    "무제 4.canvas",
+    "무제.base",
+    "무제 3.canvas",
+    "무제 2.canvas",
+    "무제 1.canvas",
+    "2026-01-15.md",
+    "무제 9.base",
+    "2026-01-13.md",
+    "무제 8.base",
     "Untitled.canvas",
     "2026-01-12.md",
-    "무제.md",
     "Welcome.md",
     "create a link.md"
   ]
