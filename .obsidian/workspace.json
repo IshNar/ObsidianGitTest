@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMGUI 참조.md",
+                "file": "바이알 이물검사 프로그램 참조.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMGUI 참조"
+              "title": "바이알 이물검사 프로그램 참조"
+            }
+          },
+          {
+            "id": "e979b19aa5e701ba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.5"
             }
           }
         ]
@@ -79,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cddcaacb787f00d",
@@ -193,15 +204,19 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "iconic:Open rulebook": false
     }
   },
   "active": "b0667194db1d86a3",
   "lastOpenFiles": [
+    "무제 12.base",
+    "2026-01-27.md",
+    "IMGUI 참조.md",
     "Pasted image 20260126104017.png",
     "Pasted image 20260126103933.png",
     "무제 11.base",
-    "IMGUI 참조.md",
     "무제 10.base",
     "무제 8.canvas",
     "무제 9.base",
@@ -222,7 +237,6 @@
     "무제 5.base",
     "무제 7.canvas",
     "무제 6.canvas",
-    "무제 4.base",
     "무제.canvas",
     "무제 5.canvas",
     "무제 4.canvas",
