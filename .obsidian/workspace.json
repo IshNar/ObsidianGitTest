@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "바이알 이물검사 프로그램 참조.md",
-                "mode": "preview",
+                "file": "업무-메일-효율-10배-높이는-구글-Gemini-GEM-실전.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "바이알 이물검사 프로그램 참조"
+              "title": "업무-메일-효율-10배-높이는-구글-Gemini-GEM-실전"
             }
           },
           {
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cddcaacb787f00d",
@@ -211,6 +212,10 @@
   },
   "active": "b0667194db1d86a3",
   "lastOpenFiles": [
+    "무제 13.base",
+    "바이알 이물검사 프로그램 참조.md",
+    "업무-메일-효율-10배-높이는-구글-Gemini-GEM-실전.md",
+    "미확인 163886.crdownload",
     "무제 12.base",
     "2026-01-27.md",
     "IMGUI 참조.md",
@@ -224,7 +229,6 @@
     "무제 1.base",
     "2026-01-26.md",
     "GitHub PAT 발급 방법.md",
-    "바이알 이물검사 프로그램 참조.md",
     "Pasted image 20260126102355.png",
     "Pasted image 20260126102339.png",
     "Pasted image 20260126100119.png",
@@ -233,8 +237,6 @@
     "Pasted image 20260126100016.png",
     "무제 8.base",
     "무제 7.base",
-    "무제 6.base",
-    "무제 5.base",
     "무제 7.canvas",
     "무제 6.canvas",
     "무제.canvas",
