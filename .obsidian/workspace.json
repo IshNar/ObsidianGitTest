@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
+                "file": "Python exe 만들기(바이알이물).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드"
+              "title": "Python exe 만들기(바이알이물)"
             }
           },
           {
@@ -251,10 +251,11 @@
   },
   "active": "b0667194db1d86a3",
   "lastOpenFiles": [
+    "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
+    "Python exe 만들기(바이알이물).md",
     "Basler_GigE_Camera_Troubleshooting_Deep_Dive.pdf",
     "Pasted image 20260210115948.png",
     "# [Issue Report] Basler GigE 카메라 인식 불가 문제 해결.md",
-    "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
     "무제 15.base",
     "무제 19.base",
     "2026-02-09.md",
@@ -275,7 +276,6 @@
     "무제 13.base",
     "바이알 이물검사 프로그램 참조.md",
     "미확인 163886.crdownload",
-    "무제 12.base",
     "2026-01-27.md",
     "IMGUI 참조.md",
     "Pasted image 20260126104017.png",
