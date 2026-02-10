@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "023e82e8bad96b70",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.7"
+            }
+          },
+          {
             "id": "e979b19aa5e701ba",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,7 +249,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "1289cacaaa9e922c",
+  "active": "023e82e8bad96b70",
   "lastOpenFiles": [
     "무제 19.base",
     "2026-02-09.md",
