@@ -11,13 +11,14 @@
             "id": "b0667194db1d86a3",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "무제 15.base",
-                "viewName": "표"
+                "file": "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "무제 15"
+              "icon": "lucide-file",
+              "title": "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드"
             }
           },
           {
@@ -71,8 +72,7 @@
               "title": "릴리즈 노트 1.11.5"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +249,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "023e82e8bad96b70",
+  "active": "b0667194db1d86a3",
   "lastOpenFiles": [
+    "# [Issue Report] Basler GigE 카메라 인식 불가 문제 해결.md",
+    "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
+    "무제 15.base",
     "무제 19.base",
     "2026-02-09.md",
     "무제 10.canvas",
@@ -262,7 +265,6 @@
     "GitHub PAT 발급 방법.md",
     "무제 16.base",
     "Excalidraw/Drawing 2026-02-04 11.17.20.excalidraw.md",
-    "무제 15.base",
     "Excalidraw",
     "2026-02-04.md",
     "무제 9.canvas",
