@@ -61,4 +61,4 @@
 | **Static IP (고정 IP)**         | 장치에 수동으로 직접 부여한 고정된 주소. 통신 안정성을 위해 산업용 환경에서 권장됨.                     |
 | **Auto IP (LAA/DHCP)**        | 장치가 자동으로 네트워크 환경에 맞는 IP 주소를 할당받도록 설정하는 방식.                           |
 
-![[Pasted image 20260210115948.png]]
+![[Pasted image 20260210115948.png]]![[Basler_GigE_Camera_Troubleshooting_Deep_Dive.pdf]]
