@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python exe 만들기(바이알이물).md",
+                "file": "python cmd로 가상환경 실행 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python exe 만들기(바이알이물)"
+              "title": "python cmd로 가상환경 실행 방법"
             }
           },
           {
@@ -251,8 +251,10 @@
   },
   "active": "b0667194db1d86a3",
   "lastOpenFiles": [
-    "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
+    "Pasted image 20260213100021.png",
     "Python exe 만들기(바이알이물).md",
+    "python cmd로 가상환경 실행 방법.md",
+    "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
     "Basler_GigE_Camera_Troubleshooting_Deep_Dive.pdf",
     "Pasted image 20260210115948.png",
     "# [Issue Report] Basler GigE 카메라 인식 불가 문제 해결.md",
