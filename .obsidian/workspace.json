@@ -24,12 +24,13 @@
             "id": "5488b100cb5f4062",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "무제 21.base",
+                "viewName": "표"
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.4"
+              "icon": "lucide-table",
+              "title": "무제 21"
             }
           },
           {
@@ -263,6 +264,9 @@
   },
   "active": "5488b100cb5f4062",
   "lastOpenFiles": [
+    "2026-03-11.md",
+    "무제 21.base",
+    "무제 12.canvas",
     "2026-03-05.md",
     "무제 20.base",
     "무제 11.canvas",
@@ -290,7 +294,6 @@
     "무제 9.canvas",
     "무제 14.base",
     "업무-메일-효율-10배-높이는-구글-Gemini-GEM-실전.md",
-    "무제 13.base",
     "바이알 이물검사 프로그램 참조.md",
     "2026-01-27.md",
     "IMGUI 참조.md",
@@ -309,7 +312,6 @@
     "무제.canvas",
     "무제 5.canvas",
     "무제 4.canvas",
-    "무제 3.canvas",
     "2026-01-15.md",
     "2026-01-13.md",
     "2026-01-12.md",
