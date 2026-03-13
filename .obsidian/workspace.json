@@ -24,13 +24,14 @@
             "id": "5488b100cb5f4062",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "무제 21.base",
-                "viewName": "표"
+                "file": "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "무제 21"
+              "icon": "lucide-file",
+              "title": "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드"
             }
           },
           {
@@ -264,8 +265,8 @@
   },
   "active": "5488b100cb5f4062",
   "lastOpenFiles": [
-    "2026-03-11.md",
     "무제 21.base",
+    "2026-03-11.md",
     "무제 12.canvas",
     "2026-03-05.md",
     "무제 20.base",
