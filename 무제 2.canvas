@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"0df5ebe78685be2f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"9f8c6938affcc2f2","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"GitHub"}
-	],
-	"edges":[]
-}
