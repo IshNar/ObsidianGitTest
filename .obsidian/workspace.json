@@ -24,13 +24,14 @@
             "id": "5488b100cb5f4062",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "무제 22.base",
-                "viewName": "표"
+                "file": "2026-03-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "무제 22"
+              "icon": "lucide-file",
+              "title": "2026-03-11"
             }
           },
           {
@@ -263,8 +264,13 @@
   },
   "active": "5488b100cb5f4062",
   "lastOpenFiles": [
-    "2026-03-16.md",
+    "무제 24.base",
+    "바이알 이물검사 프로그램 참조.md",
+    "무제 23.base",
+    "무제 13.canvas",
+    "Pasted image 20260126100016.png",
     "무제 22.base",
+    "2026-03-16.md",
     "Basler GigE 카메라 인식 및 Pylon 소프트웨어 설정 학습 가이드.md",
     "무제 21.base",
     "2026-03-11.md",
@@ -288,13 +294,10 @@
     "Excalidraw/Drawing 2026-02-04 11.18.14.excalidraw.md",
     "무제 17.base",
     "GitHub PAT 발급 방법.md",
-    "무제 16.base",
     "Excalidraw/Drawing 2026-02-04 11.17.20.excalidraw.md",
-    "Excalidraw",
     "2026-02-04.md",
     "무제 9.canvas",
     "업무-메일-효율-10배-높이는-구글-Gemini-GEM-실전.md",
-    "바이알 이물검사 프로그램 참조.md",
     "2026-01-27.md",
     "IMGUI 참조.md",
     "Pasted image 20260126104017.png",
@@ -306,12 +309,10 @@
     "Pasted image 20260126100119.png",
     "Pasted image 20260126100057.png",
     "Pasted image 20260126100036.png",
-    "Pasted image 20260126100016.png",
     "무제 7.canvas",
     "무제 6.canvas",
     "무제.canvas",
     "무제 5.canvas",
-    "무제 4.canvas",
     "2026-01-15.md",
     "2026-01-13.md",
     "2026-01-12.md",
