@@ -191,13 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "개요"
             }
           },
           {
@@ -231,7 +230,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "5488b100cb5f4062",
+  "active": "b5abd7fb94ff9fce",
   "lastOpenFiles": [
     "무제.md",
     "무제.canvas",
