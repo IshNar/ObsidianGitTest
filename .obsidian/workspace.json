@@ -35,40 +35,32 @@
             "id": "023e82e8bad96b70",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "2026-03-30.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.7"
+              "icon": "lucide-file",
+              "title": "2026-03-30"
             }
           },
           {
-            "id": "e979b19aa5e701ba",
+            "id": "7a657f02a43b355f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "ForeignBody Insp/Review/Main_Window_UI_Description.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.5"
-            }
-          },
-          {
-            "id": "4d7cb02df5377b99",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "icon": "lucide-file",
+              "title": "Main_Window_UI_Description"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,21 +235,41 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4d7cb02df5377b99",
+  "active": "7a657f02a43b355f",
   "lastOpenFiles": [
+    "무제 6.base",
+    "Excalidraw/Drawing 2026-03-30 10.40.21.excalidraw.md",
+    "2026-03-30.md",
+    "무제 4.canvas",
+    "무제 3.canvas",
+    "무제 5.base",
+    "Excalidraw/Drawing 2026-03-30 10.39.13.excalidraw.md",
+    "무제 2.canvas",
+    "무제 1.canvas",
+    "ForeignBody Insp/Review/NOVAnix-DVI_프로젝트소개_상세.pptx",
+    "ForeignBody Insp/Review/NOVAnix-DVI_프로젝트소개.pptx",
+    "ForeignBody Insp/Review/Model_Selection_Rationale.md",
+    "ForeignBody Insp/Review/Main_Window_UI_Description.md",
+    "ForeignBody Insp/Review/Inspection_Parameters_Description.md",
+    "ForeignBody Insp/Review/Detailed_Inspection_Flow.md",
+    "ForeignBody Insp/Review/Classification_Tab_UI_Description.md",
+    "ForeignBody Insp/Review",
+    "Review/NOVAnix-DVI_프로젝트소개_상세.pptx",
+    "Review/NOVAnix-DVI_프로젝트소개.pptx",
+    "Review/Model_Selection_Rationale.md",
+    "Review/Main_Window_UI_Description.md",
+    "Review/Inspection_Parameters_Description.md",
+    "Review/Detailed_Inspection_Flow.md",
+    "Review/Classification_Tab_UI_Description.md",
+    "Review",
     "무제.md",
     "무제.canvas",
     "2026-03-23.md",
     "무제 4.base",
     "무제 3.base",
     "ForeignBody Insp/2_Areas/Inspection_Pipeline_Flowchart.md",
-    "무제 2.base",
     "ForeignBody Insp/3_Resources/VSCode_Markdown_Link_Strategy.md",
-    "무제 1.base",
     "src/hardware/basler_camera.py.md",
-    "src/hardware",
-    "src",
-    "무제.base",
     "바이알 이물검사 프로그램 참조.md",
     "ForeignBody Insp/README.md",
     "ForeignBody Insp/OpenVINO_CPU_GPU_NPU_Guide.md",
@@ -265,23 +277,6 @@
     "ForeignBody Insp/2026-02-05_Classification_Optimization.md",
     "ForeignBody Insp/3_Resources/__Optical_System_Spec.md",
     "ForeignBody Insp/3_Resources/YOLO_vs_Classification_Strategy_Guide.md",
-    "ForeignBody Insp/3_Resources/VSCode_Pylance_Import_Resolution.md",
-    "ForeignBody Insp/3_Resources/Upgrade_EfficientNet_ONNX_Architecture.md",
-    "ForeignBody Insp/3_Resources/Machine_Vision_Lens_Guide.md",
-    "ForeignBody Insp/3_Resources/EfficientNet_Model_Selection_Rationale.md",
-    "ForeignBody Insp/3_Resources/Computer_Vision_Deep_Learning_Study_Guide.md",
-    "ForeignBody Insp/3_Resources/Classification_Input_Source_Explanation.md",
-    "ForeignBody Insp/3_Resources/Bubble_Detection_Pipeline_References.md",
-    "ForeignBody Insp/3_Resources/Batch_Epoch_Iteration.md",
-    "ForeignBody Insp/3_Resources/Bubble_Detection_Algorithm_Comparison.md",
-    "ForeignBody Insp/3_Resources",
-    "ForeignBody Insp/2_Areas/Inspection_Pipeline_Optimization_Guide.md",
-    "ForeignBody Insp/2_Areas/Full_Project_Codebase_Walkthrough.md",
-    "ForeignBody Insp/2_Areas/Classification_Model_Evolution_History.md",
-    "ForeignBody Insp/2_Areas/BugReport.md",
-    "ForeignBody Insp/2_Areas",
-    "ForeignBody Insp/1_Projects/vial_inspection_full_ecc_euclidean_workflow.md",
-    "ForeignBody Insp/1_Projects",
     "무제 13.canvas",
     "Pasted image 20260126100016.png",
     "무제 12.canvas",
@@ -292,14 +287,10 @@
     "무제 9.canvas",
     "Pasted image 20260126104017.png",
     "Pasted image 20260126103933.png",
-    "무제 8.canvas",
     "Pasted image 20260126102355.png",
     "Pasted image 20260126102339.png",
     "Pasted image 20260126100119.png",
     "Pasted image 20260126100057.png",
-    "Pasted image 20260126100036.png",
-    "무제 7.canvas",
-    "무제 6.canvas",
-    "무제 5.canvas"
+    "Pasted image 20260126100036.png"
   ]
 }
