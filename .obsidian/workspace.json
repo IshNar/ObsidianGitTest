@@ -54,8 +54,21 @@
               "icon": "lucide-book-up",
               "title": "릴리즈 노트 1.11.5"
             }
+          },
+          {
+            "id": "4d7cb02df5377b99",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -230,7 +243,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "b5abd7fb94ff9fce",
+  "active": "4d7cb02df5377b99",
   "lastOpenFiles": [
     "무제.md",
     "무제.canvas",
