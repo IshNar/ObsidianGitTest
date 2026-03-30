@@ -38,14 +38,60 @@
             "id": "51cef34c04abc8f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ForeignBody Insp/Review/Classification_Tab_UI_Description.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Classification_Tab_UI_Description"
+            }
+          },
+          {
+            "id": "affcf6eafb51ab0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ForeignBody Insp/Review/Detailed_Inspection_Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detailed_Inspection_Flow"
+            }
+          },
+          {
+            "id": "82bb04676789f2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ForeignBody Insp/Review/Model_Selection_Rationale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Model_Selection_Rationale"
+            }
+          },
+          {
+            "id": "ecc986953bd3a7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ForeignBody Insp/Review/Inspection_Parameters_Description.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inspection_Parameters_Description"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +266,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "51cef34c04abc8f3",
+  "active": "bd19f5cc0b9fa6a1",
   "lastOpenFiles": [
+    "ForeignBody Insp/Review/Classification_Tab_UI_Description.md",
+    "ForeignBody Insp/Review/Model_Selection_Rationale.md",
+    "ForeignBody Insp/Review/Detailed_Inspection_Flow.md",
     "ForeignBody Insp/Review/Inspection_Parameters_Description.md",
     "무제 7.base",
     "2026-03-30.md",
@@ -238,9 +287,6 @@
     "무제 1.canvas",
     "ForeignBody Insp/Review/NOVAnix-DVI_프로젝트소개_상세.pptx",
     "ForeignBody Insp/Review/NOVAnix-DVI_프로젝트소개.pptx",
-    "ForeignBody Insp/Review/Model_Selection_Rationale.md",
-    "ForeignBody Insp/Review/Detailed_Inspection_Flow.md",
-    "ForeignBody Insp/Review/Classification_Tab_UI_Description.md",
     "ForeignBody Insp/Review",
     "Review/NOVAnix-DVI_프로젝트소개_상세.pptx",
     "Review/NOVAnix-DVI_프로젝트소개.pptx",
