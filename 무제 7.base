@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 표
+    groupBy:
+      property: file.folder
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.folder
+        direction: DESC
